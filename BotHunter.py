@@ -5,7 +5,7 @@ from time import sleep
 from telebot import types 
 from uuid import uuid4
 import random 
-token = ("5236958470:AAED9pLS02TFKcZuyTiW2CV1c-paUxzNl4c")
+token = ("5246961116:AAGos9xT0TdrJYEr5fSSluJHgzo-zWBrIXM")
 r = requests.session() 
 bot = telebot.TeleBot(token)
 co = types.InlineKeyboardButton(text ="- Start Checker ✅",callback_data = 'st')
