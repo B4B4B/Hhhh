@@ -40,7 +40,7 @@ _dM_     _dMM_MM_ YMMMMM9  MYMMMM9 _MM_  _MM_
 #~~~~~~~~~~~~~~~{الاوان}~~~~~~~~~~~~~~~~#
 #~~~~~~~~~~~~~~~{Telegram}~~~~~~~~~~~~~~~~
 print(CaRiNo)
-ToKen = ("5246961116:AAGos9xT0TdrJYEr5fSSluJHgzo-zWBrIXM")
+ToKen = ("5520339181:AAFEL-rr9kDcLPDh4hO2AFGbUGHu_X15XDc")
 os.system('clear')
 bot = telebot.TeleBot(ToKen)
 @bot.message_handler(commands = ["start"])
